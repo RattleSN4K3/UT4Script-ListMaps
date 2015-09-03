@@ -15,12 +15,14 @@ ListMaps.py <file>
 ListMaps.py <folder>
     ```
 
-
 ## Options:
 <dl>
   <dt><code>-full</code>  <code>--full</code></dt>
   <dd>Detailed list of the maps inside the packages</dd>
 </dl>
+
+## Output
+<img src=output.png width=500px>
 
 ## License
 Available under [the MIT license](http://opensource.org/licenses/mit-license.php).
