@@ -226,7 +226,7 @@ def main(argv):
 	
 		print("Retrieve map names from UT4 packages")
 		print("-------------------------------------")
-		print("Usage: %s <File|Path>" % os.path.basename(__file__))
+		print("Usage: ListMaps.exe <File|Path>")
 
 	# just wait for keypress to support drag'n'drop in Windows (from Explorer)
 	print("")		
