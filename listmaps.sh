@@ -2,6 +2,7 @@
 
 listmaps()
 {
+	# Specify map path.
 	inpak=$1
 
 	# Retrieve raw map path from file.
@@ -16,9 +17,7 @@ listmaps()
 	echo "$(basename $inpak) $mapPath $mapChecksum";
 }
 
-# Specify your map path.
 args=$@
-
 if [ -d $args ] ; then
 
 	paksDir=$args
