@@ -23,7 +23,7 @@ bash ./listmaps.sh <folder>
 `./listmaps.sh [<file|folder>]`
 
 ## Output
-<img src=output.png width=500px>
+<img src=output.png width=800px>
 
 ## License
 Available under [the MIT license](http://opensource.org/licenses/mit-license.php).
